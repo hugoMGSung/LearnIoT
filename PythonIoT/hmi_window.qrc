@@ -1,0 +1,11 @@
+<RCC>
+  <qresource lang="hmi" prefix="/hmi">
+    <file alias="temp_128">temp_128.png</file>
+    <file alias="cloud_icon">cloud_64.png</file>
+    <file alias="pressure_128">pressure_128.png</file>
+    <file alias="humid_128">humid_128.png</file>
+    <file alias="rain_icon">rain_64.png</file>
+    <file alias="iot_icon">iot_64.png</file>
+    <file alias="sun_icon">sun_64.png</file>
+  </qresource>
+</RCC>
